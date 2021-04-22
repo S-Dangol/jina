@@ -1,0 +1,36 @@
+body {
+    background-color: #6B8E6E;
+    font-family: 'Muli', sans-serif;
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: 400;
+    line-height: 1.58;
+    letter-spacing: -.003em;
+    font-size: 20px;
+}
+
+aside {
+    float: left;
+    width: 35%;
+}
+
+article {
+    float: left;
+    width: 65%;
+}
+
+.heading h1 {
+    font-family: 'Codystar', cursive;
+    font-family: 'Libre Barcode 39 Extended Text', cursive;
+    font-family: 'Libre Barcode 39 Text', cursive;
+    margin-top: 45px;
+    margin-bottom: 20px;
+    text-align: start;
+    font-size: 50px;
+    font-weight: 400;
+    color: aliceblue;
+}
+
+.front-img img {
+    width: 900px;
+    height: 100%;
+}
